@@ -1,16 +1,23 @@
 # Awesome-Multilingual-LLM
 
-**:fire: The paperlist & Data Resources website is also available on [multilingual-llm.net](https://multilingual-llm.net/).**
 
-:star: **Any contributions via PRs, issues, emails or other methods are greatly appreciated.**
+ðŸ”¥ **The paperlist & Data Resources website is also available on \[[ArXiv](https://arxiv.org/abs/2404.04925)\].**
+
+ðŸŒŸ **Any contributions via PRs, issues, emails or other methods are greatly appreciated.**
+
+ðŸ”® **Interactive paperlist&benchmark website is also available on [multilingual-llm.net](https://multilingual-llm.net/)**
 
 ## Introduction
+
+![multilingual LLM evolution](image/main.png)
 
 In recent years, remarkable progress has been witnessed in large language models (LLMS) , which have achieved excellent performance on various natural language processing tasks. In addition, LLMs raise surprising emergent capabilities, including in-context learning, chain-of-thought reasoning and even planning. Nevertheless, the majority of LLMs are English-Centric LLMs that mainly focus on the English tasks, which still slightly weak for multilingual setting, especially in low-resource scenarios.
 
 Actually, there are over 7000 languages in the world. With the acceleration of globalization, the success of large language models should consider to serve diverse countries and languages. To this end, multilingual large language models (MLLM) possess the advantage when handling multiple languages, gaining increasing attention.
 
 The existing MLLMs can be divided into three groups based on different stages. The first series of work leverage large amounts of multilingual data in the pre-training state to boost the overall multilingual performance. The second series of work focus on incorporating multilingual data during supervised fine-tuning (SFT) stage. The third series of work also adapt the advanced prompting strategies to unlock deeper multilingual potential of MLLM during parameter-frozen inference.
+
+![Parameter-Tuning Alignment and Parameter-Frozen Alignment](image/intro.png)
 
 While promising performance have been witnessed in the MLLM, there still remains a lack of a comprehensive review and analysis of recent efforts in the literature, which hinder the development of MLLMs. To bridge this gap, we make the first attempt to conduct a comprehensive and detailed analysis for MLLMs. Specifically, we first introduce the widely used data resource, and in order to provide a unified perspective for understanding MLLM efforts in the literature , we introduce a novel taxonomy focusing on alignment strategies including **Parameter-Tuning Alignment** and **Parameter-Frozen Alignment**.
 
@@ -70,7 +77,7 @@ While promising performance have been witnessed in the MLLM, there still remains
 - [2023] **mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences.** *Uthus et al.* `Arxiv` [[paper](https://arxiv.org/abs/2305.11129)] [[code](https://github.com/google-research/longt5)]
 - [2023] **Cabrita: closing the gap for foreign languages.** *Larcher et al.* `Arxiv` [[paper](https://arxiv.org/abs/2308.11878)] 
 - [2023] **Align after Pre-train: Improving Multilingual Generative Models with Cross-lingual Alignment.** *Li et al.* `Arxiv` [[paper](https://arxiv.org/abs/2311.08089)] 
-- [2023] **Sabi¨¢: Portuguese Large Language Models.** *Pires et al.* `Arxiv` [[paper](https://arxiv.org/abs/2304.07880)] [[code](https://huggingface.co/maritaca-ai/sabia-7b)]
+- [2023] **Sabiï¿½ï¿½: Portuguese Large Language Models.** *Pires et al.* `Arxiv` [[paper](https://arxiv.org/abs/2304.07880)] [[code](https://huggingface.co/maritaca-ai/sabia-7b)]
 - [2023] **Efficient and effective text encoding for chinese llama and alpaca.** *Cui et al.* `Arxiv` [[paper](https://arxiv.org/abs/2304.08177)] [[code](https://github.com/ymcui/Chinese-LLaMA-Alpaca)]
 - [2022] **Language contamination helps explain the cross-lingual capabilities of English pretrained models.** *Blevins et al.* `Arxiv` [[paper](https://arxiv.org/abs/2204.08110)] 
 - [2022] **Byt5: Towards a token-free future with pre-trained byte-to-byte models.** *Xue et al.* `TACL` [[paper](https://arxiv.org/abs/2105.13626)] [[code](https://github.com/google-research/byt5)]
@@ -320,3 +327,17 @@ While promising performance have been witnessed in the MLLM, there still remains
 
 - [**TIM**](https://github.com/lemon0830/TIM). The dataset utilizes constructed samples for model learning comparison signals, supplementing regular translation data with dictionary information or translation errors.
 - [**Okapi**](https://github.com/nlp-uoregon/Okapi). It offers resources for instruction tuning with RLHF across 26 languages, encompassing ChatGPT prompts, multilingual instruction datasets, and multilingual response ranking data.
+
+
+# Contribution
+Please update the paper information with the following format:
+```
+title: [Title]
+paper: [Conference/Journal/arXiv]
+author: [Authors]
+code: (optional)
+key-point: (optional)
+```
+For any interesting news about multilingual LLM , you can also @[Qiguang_Chen](https://twitter.com/QiguangChen) on Twitter or email me at [charleschen2333@gmail.com](mailto:charleschen2333@gmail.com) to follow and update it at our `Awesome-Multilingual-LLM` GitHub repo.
+
+Hope everyone enjoy the Multilingual LLM future :)
