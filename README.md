@@ -77,7 +77,7 @@ While promising performance have been witnessed in the MLLM, there still remains
 - [2023] **mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences.** *Uthus et al.* `Arxiv` [[paper](https://arxiv.org/abs/2305.11129)] [[code](https://github.com/google-research/longt5)]
 - [2023] **Cabrita: closing the gap for foreign languages.** *Larcher et al.* `Arxiv` [[paper](https://arxiv.org/abs/2308.11878)] 
 - [2023] **Align after Pre-train: Improving Multilingual Generative Models with Cross-lingual Alignment.** *Li et al.* `Arxiv` [[paper](https://arxiv.org/abs/2311.08089)] 
-- [2023] **Sabi��: Portuguese Large Language Models.** *Pires et al.* `Arxiv` [[paper](https://arxiv.org/abs/2304.07880)] [[code](https://huggingface.co/maritaca-ai/sabia-7b)]
+- [2023] **Sabia: Portuguese Large Language Models.** *Pires et al.* `Arxiv` [[paper](https://arxiv.org/abs/2304.07880)] [[code](https://huggingface.co/maritaca-ai/sabia-7b)]
 - [2023] **Efficient and effective text encoding for chinese llama and alpaca.** *Cui et al.* `Arxiv` [[paper](https://arxiv.org/abs/2304.08177)] [[code](https://github.com/ymcui/Chinese-LLaMA-Alpaca)]
 - [2022] **Language contamination helps explain the cross-lingual capabilities of English pretrained models.** *Blevins et al.* `Arxiv` [[paper](https://arxiv.org/abs/2204.08110)] 
 - [2022] **Byt5: Towards a token-free future with pre-trained byte-to-byte models.** *Xue et al.* `TACL` [[paper](https://arxiv.org/abs/2105.13626)] [[code](https://github.com/google-research/byt5)]
