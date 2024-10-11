@@ -266,6 +266,7 @@ While promising performance have been witnessed in the MLLM, there still remains
 - [**Europarl**](https://www.statmt.org/europarl/). The Europarl parallel corpus is extracted from the proceedings of the European Parliament. It includes versions in 21 European languages.
 - **JW300**. It is a parallel corpus of over 300 languages with around 100 thousand parallel sentences per language pair on average.
 - [**Glot500**](https://github.com/cisnlp/Glot500?tab=readme-ov-file#glot500-c). It is a large corpus covering more than 500 diverse languages.
+- [**GlotCC-V1**](https://huggingface.co/datasets/cis-lmu/GlotCC-V1). A 2TB document-level CommonCrawl corpus, covering over 1,000 diverse languages.
 - [**Wikimedia**](https://dumps.wikimedia.org/). This dataset includes Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.
 - [**WikiMatrix**](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix). It is a freely available corpus with 135 million parallel sentences extracted from Wikipedia articles in 85 languages, facilitating multilingual natural language processing tasks.
 - [**OPUS-100**](https://huggingface.co/datasets/opus100). It is an English-centric corpus covering 100 languages, including English, selected based on the volume of parallel data available in OPUS, with all training pairs including English on either the source or target side.
