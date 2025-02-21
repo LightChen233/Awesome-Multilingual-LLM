@@ -174,6 +174,7 @@ While promising performance have been witnessed in the MLLM, there still remains
 
 #### 2.1 Direct Prompting
 
+- [2024] **Creative and Context-Aware Translation of East Asian Idioms with GPT-4** *Tang et al.* `EMNLP` [[paper](https://arxiv.org/abs/2410.00988)] [[code](https://github.com/kenantang/cjk-idioms-gpt)]
 - [2024] **Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions.** *Pourkamali et al.* `Arxiv` [[paper](https://arxiv.org/abs/2401.08429)] 
 - [2023] **Cross-lingual Cross-temporal Summarization: Dataset, Models, Evaluation.** *Zhang et al.* `Arxiv` [[paper](https://arxiv.org/abs/2306.12916)] [[code](https://github.com/zhangr2021/CLCTS)]
 - [2023] **Benchmarking Arabic AI with Large Language Models.** *Abdelali et al.* `Arxiv` [[paper](https://arxiv.org/abs/2305.14982)] [[code](https://github.com/qcri/LLMeBench)]
@@ -199,6 +200,7 @@ While promising performance have been witnessed in the MLLM, there still remains
 
 #### 2.4 Translation Alignment Prompting
 
+- [2024] **Creative and Context-Aware Translation of East Asian Idioms with GPT-4** *Tang et al.* `EMNLP` [[paper](https://arxiv.org/abs/2410.00988)] [[code](https://github.com/kenantang/cjk-idioms-gpt)]
 - [2023] **Document-Level Language Models for Machine Translation.** *Petrick et al.* `Arxiv` [[paper](https://arxiv.org/abs/2310.12303)] 
 - [2023] **On-the-Fly Fusion of Large Language Models and Machine Translation.** *Hoang et al.* `Arxiv` [[paper](https://arxiv.org/abs/2311.08306)] 
 - [2023] **Breaking Language Barriers with a LEAP: Learning Strategies for Polyglot LLMs.** *Nambi et al.* `Arxiv` [[paper](https://arxiv.org/abs/2305.17740)] 
