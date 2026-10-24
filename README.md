@@ -199,6 +199,7 @@ While promising performance have been witnessed in the MLLM, there still remains
 
 #### 2.4 Translation Alignment Prompting
 
+- [2024] **Translate-and-Revise: Boosting Large Language Models for Constrained Translation.** *Huang et al.* `CCL` [[paper](https://aclanthology.org/2024.ccl-1.82/)] 
 - [2023] **Document-Level Language Models for Machine Translation.** *Petrick et al.* `Arxiv` [[paper](https://arxiv.org/abs/2310.12303)] 
 - [2023] **On-the-Fly Fusion of Large Language Models and Machine Translation.** *Hoang et al.* `Arxiv` [[paper](https://arxiv.org/abs/2311.08306)] 
 - [2023] **Breaking Language Barriers with a LEAP: Learning Strategies for Polyglot LLMs.** *Nambi et al.* `Arxiv` [[paper](https://arxiv.org/abs/2305.17740)] 
